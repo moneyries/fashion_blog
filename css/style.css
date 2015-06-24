@@ -131,6 +131,7 @@ footer {
      color: #D00;
      margin-top: 50px;
      font-size: 14px;
+     clear: both;
 }
 
 footer a:hover {
@@ -147,4 +148,30 @@ footer a:hover {
 
 .copy {
      color: #DDD;
+}
+
+.about {
+     color: gray;
+     padding-bottom: 60px;
+     border-bottom: 1px solid;
+}
+
+.ad {
+     width: 100%;
+     height: 300px;
+     background-color: gray;
+     text-align: center;
+     padding: 10%;
+}
+
+main {
+     width:70%;
+}
+
+aside {
+     width:30%;
+}
+
+main, aside {
+     float: left;
 }
