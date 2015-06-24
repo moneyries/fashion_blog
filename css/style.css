@@ -79,6 +79,16 @@ nav a {
      text-decoration: none;
      border-bottom: 2px solid #EEE;
 
+}
+
+li {
+     display: inline;
+     font-size: 10px;
+}
+
+li a {
+     color: white;
+
 
 }
 
@@ -175,13 +185,6 @@ footer a:hover {
 
 .navbar ul {
      color: white;
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
 }
 
 h2.better {
